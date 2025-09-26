@@ -1,18 +1,17 @@
-# Salesforce DX Project: Next Steps
+# InvoicePro Automated Invoice Payment Reminder CRM
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Problem Statement
 
-## How Do You Plan to Deploy Your Changes?
+Many businesses struggle with inefficiencies in their invoicing and payment management processes. Manual invoice entry often results in duplicate records, creating errors in accounting and reconciliation. Payment reminders are inconsistently managed, leading to delayed collections and cash flow issues. Without real-time visibility into pending and overdue payments, managers face challenges in tracking financial performance, which affects decision-making and overall financial stability.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Salesforce Solution
+InvoicePro, a Salesforce CRM-based solution, Make easy the entire invoicing process by preventing duplicate records, sending timely reminders for pending and overdue payments, and offering real-time dashboards for both finance teams and management. This ensures faster collections, improved financial visibility, and better decision-making.
 
-## Configure Your Salesforce DX Project
+## Benefits
+Eliminates duplicate invoice records through invoice creation
+Ensures timely payment follow-ups with automated email reminders
+Provides real-time dashboards for finance teams and management
+Saves time and effort by reducing manual tracking and follow-ups
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+##Demo Video Link(InvoicePro)
+https://drive.google.com/drive/folders/1FgKXFNxqvMdT0kZ2iqI_LwcBgBZUQeYT
